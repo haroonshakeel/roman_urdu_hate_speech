@@ -13,4 +13,5 @@ Note that ``ver1`` is trained on ``0.3 million`` tweets only while ``ver2`` is t
   booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
   pages={2512--2522},
   year={2020}
-}```
+}
+```
