@@ -5,6 +5,8 @@ The embeddings could be found at: https://drive.google.com/drive/folders/1_ZeoYM
 
 Note that ``ver1`` is trained on ``0.3 million`` tweets only while ``ver2`` is trained on ``4.7 million`` tweets.
 
+``label_definitions.txt`` contains the mapping for the labels for both tasks (i.e., coarsegrained and finegrained labels).
+
 # Reference
 ```bash
 @inproceedings{rizwan2020hate,
